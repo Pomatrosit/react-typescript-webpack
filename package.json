@@ -1,0 +1,16 @@
+{
+  "name": "react-typescript-webpack",
+  "version": "1.0.0",
+  "description": "react typescript webpack config node version v14.20.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pomatrosit/react-typescript-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
