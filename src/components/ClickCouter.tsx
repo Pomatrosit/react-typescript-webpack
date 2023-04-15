@@ -2,6 +2,7 @@ import { useState } from "react";
 
 const ClickCounter = () => {
   const [count, setCount] = useState<number>(0);
+  const a = 0;
 
   return (
     <div>
